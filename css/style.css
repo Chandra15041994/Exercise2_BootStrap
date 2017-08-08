@@ -34,8 +34,8 @@
 }
 
 .navbar-nav{
-   word-spacing: 20px;
-   margin-left: 20px;
+   word-spacing: 10px;
+  
 
 }
 
@@ -113,8 +113,7 @@
   max-width: 500px;
   
   margin-top:20px;
-  
-  height:400px; 
+  height: 250px;  
   text-align: center;
   margin-left: -7px;
 
@@ -127,8 +126,7 @@
   
   max-width: 500px;
   float: left;
- 
-  height:400px;
+  height: 250px;
   margin-top:20px;
   text-align: center;
 
@@ -140,7 +138,7 @@
   max-width: 500px;
   
   float:left;
-  height:400px;
+  height: 250px;
   margin-top:20px;
   text-align: center;
   margin-left: 10px;
@@ -174,6 +172,77 @@ footer  a img {
      margin-top: 3px;
       
 }
+
+#menu1 {
+  align-content: center;
+}
+
+#menu1 .Bollywood figure a img {
+  
+  width: 100%;
+  float: left;
+ margin-left: 25px;
+  
+  margin-top:20px;
+  height: 250px;  
+  
+
+}
+
+#menu1 .Hollywood figure a img {
+  
+  width: 100%;
+  margin-left: 30px;
+  
+  
+  float: left;
+  height: 250px;
+  margin-top:20px;
+  text-align: center;
+
+}
+
+#menu1 .Punjabi figure a img {
+  width: 80%;
+  max-width: 500px;
+   margin-left: 40px;
+   margin-right: -50px;
+  float:left;
+  height: 250px;
+  margin-top:20px;
+  text-align: center;
+  position: relative;
+
+}
+
+#menu1 footer {
+    clear:both;
+    width:100%;
+    height:50px;
+    background-color:black;
+    text-shadow: 1px 1px 1px gold;
+    font-family:sans-serif;
+    text-decoration:none;
+    font-size:14px;   
+    color:silver;
+    text-align:center;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    margin-top: 10px;
+    bottom: 0px;
+
+}
+
+
+#menu1 footer  a img {
+    width:15px;
+    height: 15px;
+     align-items: center;
+     margin-top: 3px;
+      
+}
+
 
 .divider {
 
