@@ -1,3 +1,14 @@
+body {
+    background-color: white;
+    
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color:gray;
+    }
+}
+
 .movie{
     width:100%;
    
@@ -7,26 +18,29 @@
 .navbar {
     background:black;
     width: 100%;
-    margin-left: 2px;
+    margin-left: 1px;
     min-height: 100px;
     text-align: right;
     text-shadow: 2px 1px 2px gold;
-    color:gold;
+    color:white;
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
     border-radius: 6px;
 }
 
 .navbar-header img{
-    margin-top:20px;
+    margin-top:30px;
     width: 150px;
     height:70px;
-    margin-right: 50px;
+    margin-left: 20px;
+    margin: auto;
+    
 }
-.nav, .navbar-nav{
-    color:gold;
 
-    margin-top: 40px;
+.nav, .navbar-nav{
+    color:white;
+
+    margin-top: 35px;
     font-size: 18px;
     font-family: fantasy;
     
@@ -34,7 +48,7 @@
 }
 
 .navbar-nav{
-   word-spacing: 10px;
+   
   
 
 }
@@ -80,9 +94,10 @@
     margin-left: 5px;
 
 
+
 }
  .nav-pills li a {
-    color:silver;
+    color:white;
     font-family: fantasy;
     font-size: 25px;
     text-align: left;
@@ -116,6 +131,7 @@
   height: 250px;  
   text-align: center;
   margin-left: -7px;
+  border-radius: 50%;
 
 }
 
@@ -129,6 +145,7 @@
   height: 250px;
   margin-top:20px;
   text-align: center;
+  border-radius: 50%;
 
 }
 
@@ -142,6 +159,7 @@
   margin-top:20px;
   text-align: center;
   margin-left: 10px;
+  border-radius: 50%;
 
 }
 
@@ -154,7 +172,7 @@ footer {
     font-family:sans-serif;
     text-decoration:none;
     font-size:14px;   
-    color:silver;
+    color:white;
     text-align:center;
     -webkit-border-radius: 6px;
     -moz-border-radius: 6px;
@@ -181,38 +199,38 @@ footer  a img {
   
   width: 100%;
   float: left;
- margin-left: 25px;
+ margin-left: 2px;
   
   margin-top:20px;
   height: 250px;  
-  
+  border-radius: 50%;
 
 }
 
 #menu1 .Hollywood figure a img {
   
   width: 100%;
-  margin-left: 30px;
+  margin-left: 10px;
   
   
   float: left;
   height: 250px;
   margin-top:20px;
   text-align: center;
-
+   border-radius: 50%;
 }
 
 #menu1 .Punjabi figure a img {
   width: 80%;
   max-width: 500px;
-   margin-left: 40px;
+   margin-left: 20px;
    margin-right: -50px;
   float:left;
   height: 250px;
   margin-top:20px;
   text-align: center;
   position: relative;
-
+  border-radius: 50%;
 }
 
 #menu1 footer {
@@ -247,4 +265,54 @@ footer  a img {
 .divider {
 
 	color:silver;
+}
+
+.MovieWorld {
+
+background: url("https://media.giphy.com/media/Tjkgrf56Q4K8U/giphy.gif");
+
+}
+
+.container-fluid .jumbotron{
+
+  width:100%;
+  height: 400px;
+  margin-top: 40px;
+
+ background: url("https://media.giphy.com/media/Tjkgrf56Q4K8U/giphy.gif");
+
+}
+
+
+.jumbotron  iframe {
+    
+    margin-top: 20px;
+   width:100%;
+   height: 300px;
+   align-content: center;
+
+}
+ 
+
+button {
+
+  -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.jumbotron #btn1 {
+
+  background-color: transparent;
+  border: transparent;
+  margin-top: 30px;
+  color:white;
+}
+
+#btn2, #btn3, #btn4 {
+background-color: transparent;
+  border: transparent;
+  color:white;
+
+
 }
