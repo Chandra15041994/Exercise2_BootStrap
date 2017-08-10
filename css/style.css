@@ -1,66 +1,67 @@
 body {
-    background-color: white;
-    
+  
+  background: url("http://cdn26.us1.fansshare.com/photo/background/cool-black-background-white-wall-abstract-wallpapers-inspirational-creative-graphics-photo-black-backgrounds-2099565542.jpg");
 }
 
 @media screen and (min-width: 480px) {
-    body {
-        background-color:gray;
-    }
+  body {
+    background-color:gray;
+    background: url("http://wallpapercave.com/wp/yX3fq1h.png");
+  }
 }
 
 .movie{
-    width:100%;
-   
+  width:100%;
+
 
 }
 
 .navbar {
-    background:black;
-    width: 100%;
-    margin-left: 1px;
-    min-height: 100px;
-    text-align: right;
-    text-shadow: 2px 1px 2px gold;
-    color:white;
-    -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
+  background:url("http://s1.picswalls.com/wallpapers/2014/01/22/best-black-wallpaper_052244_13.jpg");
+  width: 100%;
+  margin-left: 1px;
+  min-height: 100px;
+  text-align: right;
+  text-shadow: 2px 1px 2px gold;
+  color:white;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
 }
 
 .navbar-header img{
-    margin-top:30px;
-    width: 150px;
-    height:70px;
-    margin-left: 20px;
-    margin: auto;
-    
+  margin-top:30px;
+  width: 150px;
+  height:70px;
+  margin-left: 20px;
+  margin: auto;
+
 }
 
 .nav, .navbar-nav{
-    color:white;
+  color:white;
 
-    margin-top: 35px;
-    font-size: 18px;
-    font-family: fantasy;
-    
+  margin-top: 35px;
+  font-size: 18px;
+  font-family: fantasy;
+
 
 }
 
 .navbar-nav{
-   
-  
+
+
 
 }
 
 .carousel, .slide {
-      width:100%;
-      height: 60%;
-      margin-left: 5px;
-      margin-top:110px;
-      margin-right: 20px;
-      justify-content: center;
-      
+  width:100%;
+  height: 60%;
+  margin-left: 5px;
+  margin-top:110px;
+  margin-right: 20px;
+  justify-content: center;
+
 }
 
 .item img{
@@ -68,45 +69,47 @@ body {
 	width:100%
 }
 
+
+
 #menu {
 
 	width:100%;
 	
 	-webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
-    margin-left: 5px;
-    
-    font-size: 25px;
-    font-family: fantasy;
-    text-indent: 20px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  margin-left: 5px;
+  font-size: 25px;
+  font-family: fantasy;
+  text-indent: 20px;
 
 }
 
+
 .nav-pills {
-  background: black;
+  background: url("http://s1.picswalls.com/wallpapers/2014/01/22/best-black-wallpaper_052244_13.jpg");
   width:100%;
   height: 25%;
   max-height: 500px;
   -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
-    margin-left: 5px;
-
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  margin-left: 5px;
+  margin-top: 25px;
 
 
 }
- .nav-pills li a {
-    color:white;
-    font-family: fantasy;
-    font-size: 25px;
-    text-align: left;
-    text-indent: 20px;
-    text-shadow: 2px 1px 2px gold;
-    display: inline;
-    border-right: 1px ;
-    text-overflow: hidden;
-    margin-top: 25px;
+.nav-pills li a {
+  color:white;
+  font-family: fantasy;
+  font-size: 25px;
+  text-align: left;
+  text-indent: 20px;
+  text-shadow: 2px 1px 2px gold;
+  display: inline;
+  border-right: 1px ;
+  text-overflow: hidden;
+  margin-top: 25px;
   
 }
 
@@ -114,6 +117,10 @@ body {
 
 	margin: auto;
 }
+
+
+
+
 
 
 .poster {
@@ -164,31 +171,31 @@ body {
 }
 
 footer {
-    clear:both;
-    width:100%;
-    height:50px;
-    background-color:black;
-    text-shadow: 1px 1px 1px gold;
-    font-family:sans-serif;
-    text-decoration:none;
-    font-size:14px;   
-    color:white;
-    text-align:center;
-    -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
-    margin-top: 10px;
-    bottom: 0px;
+  clear:both;
+  width:100%;
+  height:50px;
+  background-color:black;
+  text-shadow: 1px 1px 1px gold;
+  font-family:sans-serif;
+  text-decoration:none;
+  font-size:14px;   
+  color:white;
+  text-align:center;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  margin-top: 10px;
+  bottom: 0px;
 
 }
 
 
 footer  a img {
-    width:15px;
-    height: 15px;
-     align-items: center;
-     margin-top: 3px;
-      
+  width:15px;
+  height: 15px;
+  align-items: center;
+  margin-top: 3px;
+
 }
 
 #menu1 {
@@ -196,10 +203,10 @@ footer  a img {
 }
 
 #menu1 .Bollywood figure a img {
-  
+
   width: 100%;
   float: left;
- margin-left: 2px;
+  margin-left: 2px;
   
   margin-top:20px;
   height: 250px;  
@@ -208,7 +215,7 @@ footer  a img {
 }
 
 #menu1 .Hollywood figure a img {
-  
+
   width: 100%;
   margin-left: 10px;
   
@@ -217,14 +224,14 @@ footer  a img {
   height: 250px;
   margin-top:20px;
   text-align: center;
-   border-radius: 50%;
+  border-radius: 50%;
 }
 
 #menu1 .Punjabi figure a img {
   width: 80%;
   max-width: 500px;
-   margin-left: 20px;
-   margin-right: -50px;
+  margin-left: 20px;
+  margin-right: -50px;
   float:left;
   height: 250px;
   margin-top:20px;
@@ -234,31 +241,31 @@ footer  a img {
 }
 
 #menu1 footer {
-    clear:both;
-    width:100%;
-    height:50px;
-    background-color:black;
-    text-shadow: 1px 1px 1px gold;
-    font-family:sans-serif;
-    text-decoration:none;
-    font-size:14px;   
-    color:silver;
-    text-align:center;
-    -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
-    margin-top: 10px;
-    bottom: 0px;
+  clear:both;
+  width:100%;
+  height:50px;
+  background-color:black;
+  text-shadow: 1px 1px 1px gold;
+  font-family:sans-serif;
+  text-decoration:none;
+  font-size:14px;   
+  color:silver;
+  text-align:center;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  margin-top: 10px;
+  bottom: 0px;
 
 }
 
 
 #menu1 footer  a img {
-    width:15px;
-    height: 15px;
-     align-items: center;
-     margin-top: 3px;
-      
+  width:15px;
+  height: 15px;
+  align-items: center;
+  margin-top: 3px;
+
 }
 
 
@@ -269,7 +276,7 @@ footer  a img {
 
 .MovieWorld {
 
-background: url("https://media.giphy.com/media/Tjkgrf56Q4K8U/giphy.gif");
+  background: url("http://cdn.wallpapersafari.com/57/34/pFQyfA.jpg");
 
 }
 
@@ -279,26 +286,26 @@ background: url("https://media.giphy.com/media/Tjkgrf56Q4K8U/giphy.gif");
   height: 400px;
   margin-top: 40px;
 
- background: url("https://media.giphy.com/media/Tjkgrf56Q4K8U/giphy.gif");
+  background: url("http://cdn.wallpapersafari.com/57/34/pFQyfA.jpg");
 
 }
 
 
 .jumbotron  iframe {
-    
-    margin-top: 20px;
-   width:100%;
-   height: 300px;
-   align-content: center;
+
+  margin-top: 20px;
+  width:100%;
+  height: 300px;
+  align-content: center;
 
 }
- 
+
 
 button {
 
   -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
 }
 
 .jumbotron #btn1 {
@@ -310,7 +317,7 @@ button {
 }
 
 #btn2, #btn3, #btn4 {
-background-color: transparent;
+  background-color: transparent;
   border: transparent;
   color:white;
 
